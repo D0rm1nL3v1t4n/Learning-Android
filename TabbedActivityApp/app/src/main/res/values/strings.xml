@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TabbedActivityApp</string>
+    <string name="tab_text_1">Budget</string>
+    <string name="tab_text_2">Expense</string>
+    <string name="tab_text_3">Other</string>
+
+
+    <string-array name="fruits">
+        <item>Apple</item>
+        <item>Pear</item>
+        <item>Banana</item>
+        <item>Pineapple</item>
+        <item>Kiwi</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>£0.99</item>
+        <item>£1.10</item>
+        <item>£0.45</item>
+        <item>£1.89</item>
+        <item>£0.80</item>
+    </string-array>
+    <string name="title_activity_category_detail">CategoryDetail</string>
+    <string name="title_activity_example">EXAMPLE</string>
+
+</resources>

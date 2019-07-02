@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+
+    <string-array name="title_array">
+        <item>Miss</item>
+        <item>Mrs</item>
+        <item>Ms</item>
+        <item>Mr</item>
+        <item>Doctor</item>
+        <item>Professor</item>
+    </string-array>
+
+    <string-array name="col_array">
+        <item>First Name</item>
+        <item>Last Name</item>
+        <item>Subject</item>
+    </string-array>
+
+    <string name="col_first_name">FIRST_NAME</string>
+    <string name="col_last_name">LAST_NAME</string>
+    <string name="col_subject">SUBJECT</string>
+
+
+    <string name="title_activity_tab_navigation">tabNavigation</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>
