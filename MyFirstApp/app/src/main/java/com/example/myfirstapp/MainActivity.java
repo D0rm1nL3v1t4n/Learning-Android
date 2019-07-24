@@ -59,7 +59,8 @@ public class MainActivity extends AppCompatActivity {
         for (Object key : map.keySet()) {
             message += key + ": " + map.get(key) + "\n";
         }
-        NextActivity(message);
+        //NextActivity(message);
+        NextActivity("I am running an intent");
     }
 
     private void NextActivity(String message) {
